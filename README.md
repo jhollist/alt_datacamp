@@ -15,3 +15,4 @@ I am not attempting to have this be a one stop shop for all DataCamp alternative
 # Alt
 
 - [Data Science Guide](https://github.com/Chris-Engelhardt/data_sci_guide): This was set up in response to the DataCamp sexual assualt mess.
+- [Twitter thread that sparked the Data Science Guide]()
